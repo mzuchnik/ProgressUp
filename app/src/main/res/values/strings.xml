@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ProgressUp</string>
+    <string name="start_button">Zaczynajmy</string>
+    <string name="login">Login</string>
+    <string name="password">Hasło</string>
+    <string name="login_button">Zaloguj się</string>
+    <string name="registry_button">Zarejestruj się</string>
+    <string name="remember_me_check_box">Zapamiętaj mnie</string>
+    <string name="wrongLoginPass">Niepoprawne dane logowania</string>
+    <string name="progressuplogo">ProgressUpLogo</string>
+    <string name="welcomeText">Witaj</string>
+    <string name="createPlan">Stwórz plan</string>
+    <string name="goalTypeText">Aktywność</string>
+    <string name="gymGoalText">Cel</string>
+    <string name="photo_text">Zdjęcie</string>
+    <string name="chest_text">Klatka piersiowa</string>
+    <string name="stomach_text">Brzuch</string>
+    <string name="arm_text">Ramię</string>
+    <string name="forearm_text">Przedramię</string>
+    <string name="hips_text">Biodra</string>
+    <string name="succeed_text">Uda</string>
+    <string name="calf_text">Łydki</string>
+    <string name="logout">Wyloguj</string>
+    <string name="myPlan">Mój plan</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="addPlanMonitor">Dodaj dzienne osiągi</string>
+    <string name="history">Historia</string>
+    <string name="howToFit">Jak się mierzyć?</string>
+    <string name="stats">Statystyki</string>
+    <string name="createGif">Stwórz Gif</string>
+    <string name="toUsers">Zarządzaj użytkownikami</string>
+</resources>
